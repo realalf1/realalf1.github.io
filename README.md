@@ -44,4 +44,4 @@
 </a>
 </details>
 
-Portofolio [pages](https://realalf1.github.io/header.html)
+Git [cheatsheet](https://realalf1.github.io/header.html)
