@@ -44,4 +44,6 @@
 </a>
 </details>
 
-Git [cheatsheet](https://realalf1.github.io/header.html)
+Testing [pages](https://realalf1.github.io/header.html)
+
+Git [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
